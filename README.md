@@ -6,3 +6,4 @@ Per compilare correttamente il progetto scaricare la directory src dal repositor
   2) General -> Projects from Folder or Archive  cliccare su Next
   3) Import source: Directory... e selezionare la cartella SistemaPrenotazioneVoli (all'interno di src) assicurandosi che siano selezionati tutti gli elementi
   4) premere Finish 
+  5) aggiungere al Build Path del progetto la libreria JUnit 4
